@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Getting Started with Django</title>
-</head>
 <body>
 
 <h1>Getting Started with Django</h1>
